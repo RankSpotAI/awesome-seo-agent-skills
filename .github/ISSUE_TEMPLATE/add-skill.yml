@@ -1,0 +1,44 @@
+name: Add or correct a skill pack
+description: Suggest a pack, or fix something we got wrong
+labels: ["submission"]
+body:
+  - type: input
+    id: repo
+    attributes:
+      label: Repo
+      placeholder: owner/repo
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: URL
+    validations:
+      required: true
+  - type: textarea
+    id: covers
+    attributes:
+      label: What SEO ground does it cover?
+      description: Plain language. Include the skill count if there is one.
+    validations:
+      required: true
+  - type: input
+    id: agents
+    attributes:
+      label: Which agents does the README claim support for?
+      placeholder: Claude Code, Codex, Cursor, OpenClaw
+    validations:
+      required: true
+  - type: input
+    id: licence
+    attributes:
+      label: Licence
+      placeholder: MIT, Apache-2.0, or none
+    validations:
+      required: true
+  - type: checkboxes
+    id: disclosure
+    attributes:
+      label: Disclosure
+      options:
+        - label: This is my own project
