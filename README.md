@@ -188,6 +188,7 @@ Nobody has built these well yet. Build one and we will list it.
 ## Related lists
 
 - [awesome-seo-mcp](https://github.com/RankSpotAI/awesome-seo-mcp), the MCP servers these skills get their data from. Also maintained by us.
+- [awesome-geo-tools](https://github.com/RankSpotAI/awesome-geo-tools), GEO and AI visibility platforms compared on engines tracked, refresh rate, price and data access. Also maintained by us.
 - [sharozdawa/awesome-seo-mcp-servers](https://github.com/sharozdawa/awesome-seo-mcp-servers), a broader list mixing MCP servers, skills and standalone tools. Useful prior art, and a source we cross-checked against.
 - [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills), 1000+ skills across every category, not SEO specific.
 - [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills), general Claude Skills list.
