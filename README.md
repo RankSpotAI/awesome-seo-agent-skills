@@ -46,6 +46,7 @@ Built by the company whose data the skills use.
 | Repo | What it covers | Works with | Licence | Stars | Updated |
 | --- | --- | --- | --- | --- | --- |
 | [seranking/seo-skills](https://github.com/seranking/seo-skills) | Content briefs, AI search share of voice, audits, backlink gaps, keyword clusters, schema, sitemaps, GEO. Built for the SE Ranking MCP server, but every API call is documented so it can be adapted | Claude Code | MIT | 136 | 2026-06-25 |
+| [AltoRank/altorank](https://github.com/AltoRank/altorank/blob/main/apps/web/scripts/SKILL.md) | One skill for driving AltoRank from a coding agent: readiness audits, Search Console, keyword research, writing drafts into a human review queue, moving the content plan. Documents the HTTP, CLI and MCP surfaces, so the API calls can be adapted. No publish or approve call exists | Claude Code, any MCP client | AGPL-3.0 | 1 | 2026-09-07 |
 
 ## Large multi-skill packs
 
