@@ -61,6 +61,7 @@ Broad marketing or SEO suites. These are where most people start, and the star c
 | [kostja94/marketing-skills](https://github.com/kostja94/marketing-skills) | 160+ skills spanning SEO, social, influencer and content marketing | Claude Code | MIT | 958 | 2026-06-09 |
 | [OpenClaudia/openclaudia-skills](https://github.com/OpenClaudia/openclaudia-skills) | 34 open-source marketing skills covering SEO, content, email, ads, analytics and growth | Claude Code | MIT | 680 | 2026-08-25 |
 | [nicepkg/ai-workflow](https://github.com/nicepkg/ai-workflow) | 170+ prebuilt skills across 14+ AI tools, with a content creator workflow | Claude Code, Cursor, Codex | MIT | 282 | 2026-01-20 |
+| [meshcode-ai/skills-seo](https://github.com/meshcode-ai/skills-seo) | 7 knowledge-first SEO/AEO skills (~2KB each): audits, technical SEO, schema, backlinks, local SEO, content E-E-A-T, AI-search visibility | Claude Code, Codex, Cursor, any agentskills.io agent | MIT | 0 | 2026-09-12 |
 
 ## Technical SEO and auditing
 
