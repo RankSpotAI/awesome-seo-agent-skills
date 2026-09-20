@@ -79,6 +79,7 @@ The fastest moving category. Almost everything here was published in 2026.
 
 | Repo | What it covers | Works with | Licence | Stars | Updated |
 | --- | --- | --- | --- | --- | --- |
+| [howseen-ai/howseen-geo-skills](https://github.com/howseen-ai/howseen-geo-skills) | Ten GEO skills: llms.txt, AI crawler and citation checks, buyer questions, schema, entity coverage, retrievability, content capsules | Claude Code, Codex, Cursor and 75+ | MIT | 0 | 2026-09-20 |
 | [yaojingang/GEOHub](https://github.com/yaojingang/GEOHub) | Evidence-bounded GEO and SEO skills for AI search, with research-grounded defaults | Any agent | AGPL-3.0 | 161 | 2026-08-31 |
 | [199-biotechnologies/claude-skill-seo-geo-optimizer](https://github.com/199-biotechnologies/claude-skill-seo-geo-optimizer) | Analyses content for both traditional search and AI citation, multi-format reporting | Claude Code | MIT | 44 | 2026-05-24 |
 | [jrr996shujin-png/openclaw-seo-aeo-skills](https://github.com/jrr996shujin-png/openclaw-seo-aeo-skills) | Site health diagnosis plus long-tail question mining from Reddit and Quora | OpenClaw | MIT | 11 | 2026-02-26 |
