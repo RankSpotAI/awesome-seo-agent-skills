@@ -45,7 +45,7 @@ Built by the company whose data the skills use.
 
 | Repo | What it covers | Works with | Licence | Stars | Updated |
 | --- | --- | --- | --- | --- | --- |
-| [seranking/seo-skills](https://github.com/seranking/seo-skills) | Content briefs, AI search share of voice, audits, backlink gaps, keyword clusters, schema, sitemaps, GEO. Built for the SE Ranking MCP server, but every API call is documented so it can be adapted | Claude Code | MIT | 143 | 2026-06-25 |
+| [seranking/seo-skills](https://github.com/seranking/seo-skills) | Content briefs, AI search share of voice, audits, backlink gaps, keyword clusters, schema, sitemaps, GEO. Built for the SE Ranking MCP server, but every API call is documented so it can be adapted | Claude Code | MIT | 148 | 2026-06-25 |
 
 ## Large multi-skill packs
 
@@ -53,23 +53,23 @@ Broad marketing or SEO suites. These are where most people start, and the star c
 
 | Repo | What it covers | Works with | Licence | Stars | Updated |
 | --- | --- | --- | --- | --- | --- |
-| [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | Marketing skills across CRO, copywriting, SEO, analytics and growth engineering. The largest pack in the ecosystem by a wide margin | Claude Code, AI agents | MIT | 50125 | 2026-09-05 |
-| [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) | 25 sub-skills and 18 sub-agents: technical SEO, E-E-A-T, schema, GEO and AEO, backlinks, local SEO, semantic clustering, e-commerce, international SEO, reporting | Claude Code | MIT | 16886 | 2026-09-11 |
-| [zubair-trabzada/geo-seo-claude](https://github.com/zubair-trabzada/geo-seo-claude) | GEO-first SEO for any site, built around citability in AI answers rather than rankings | Claude Code | MIT | 10598 | 2026-09-14 |
-| [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) | A full Claude Code workspace for producing long-form SEO content, 26 commands | Claude Code | MIT | 7439 | 2026-08-05 |
-| [aaron-he-zhu/aaron-marketing-skills](https://github.com/aaron-he-zhu/aaron-marketing-skills) | 120 marketing skills including 16 SEO and GEO skills, usable as a plugin or an eight-bot team | Claude Code, Codex, Cursor | Apache-2.0 | 2775 | 2026-09-14 |
-| [kostja94/marketing-skills](https://github.com/kostja94/marketing-skills) | 160+ skills spanning SEO, social, influencer and content marketing | Claude Code | MIT | 968 | 2026-06-09 |
-| [OpenClaudia/openclaudia-skills](https://github.com/OpenClaudia/openclaudia-skills) | 34 open-source marketing skills covering SEO, content, email, ads, analytics and growth | Claude Code | MIT | 690 | 2026-09-11 |
+| [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | Marketing skills across CRO, copywriting, SEO, analytics and growth engineering. The largest pack in the ecosystem by a wide margin | Claude Code, AI agents | MIT | 51045 | 2026-09-05 |
+| [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) | 25 sub-skills and 18 sub-agents: technical SEO, E-E-A-T, schema, GEO and AEO, backlinks, local SEO, semantic clustering, e-commerce, international SEO, reporting | Claude Code | MIT | 17338 | 2026-09-11 |
+| [zubair-trabzada/geo-seo-claude](https://github.com/zubair-trabzada/geo-seo-claude) | GEO-first SEO for any site, built around citability in AI answers rather than rankings | Claude Code | MIT | 10761 | 2026-09-21 |
+| [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) | A full Claude Code workspace for producing long-form SEO content, 26 commands | Claude Code | MIT | 7453 | 2026-08-05 |
+| [aaron-he-zhu/aaron-marketing-skills](https://github.com/aaron-he-zhu/aaron-marketing-skills) | 120 marketing skills including 16 SEO and GEO skills, usable as a plugin or an eight-bot team | Claude Code, Codex, Cursor | Apache-2.0 | 2811 | 2026-09-21 |
+| [kostja94/marketing-skills](https://github.com/kostja94/marketing-skills) | 160+ skills spanning SEO, social, influencer and content marketing | Claude Code | MIT | 985 | 2026-06-09 |
+| [OpenClaudia/openclaudia-skills](https://github.com/OpenClaudia/openclaudia-skills) | 34 open-source marketing skills covering SEO, content, email, ads, analytics and growth | Claude Code | MIT | 697 | 2026-09-18 |
 | [nicepkg/ai-workflow](https://github.com/nicepkg/ai-workflow) | 170+ prebuilt skills across 14+ AI tools, with a content creator workflow | Claude Code, Cursor, Codex | MIT | 283 | 2026-01-20 |
 
 ## Technical SEO and auditing
 
 | Repo | What it covers | Works with | Licence | Stars | Updated |
 | --- | --- | --- | --- | --- | --- |
-| [Bhanunamikaze/Agentic-SEO-Skill](https://github.com/Bhanunamikaze/Agentic-SEO-Skill) | LLM-first SEO analysis, 16 sub-skills and 10 specialised agents | Claude Code, Codex, Antigravity | MIT | 906 | 2026-07-23 |
-| [JeffLi1993/seo-audit-skill](https://github.com/JeffLi1993/seo-audit-skill) | Beginner audits through to advanced technical analysis | Claude Code, OpenClaw, AI agents | MIT | 757 | 2026-06-17 |
+| [Bhanunamikaze/Agentic-SEO-Skill](https://github.com/Bhanunamikaze/Agentic-SEO-Skill) | LLM-first SEO analysis, 16 sub-skills and 10 specialised agents | Claude Code, Codex, Antigravity | MIT | 921 | 2026-07-23 |
+| [JeffLi1993/seo-audit-skill](https://github.com/JeffLi1993/seo-audit-skill) | Beginner audits through to advanced technical analysis | Claude Code, OpenClaw, AI agents | MIT | 759 | 2026-06-17 |
 | [Suganthan-Mohanadasan/tech-seo-audit-skill](https://github.com/Suganthan-Mohanadasan/tech-seo-audit-skill) | Technical audits across 10 categories | Claude Code | MIT | 64 | 2026-04-11 |
-| [norahe0304-art/30x-seo](https://github.com/norahe0304-art/30x-seo) | 23 production skills across technical SEO, content optimisation and keyword research | Claude Code | MIT | 51 | 2026-03-14 |
+| [norahe0304-art/30x-seo](https://github.com/norahe0304-art/30x-seo) | 23 production skills across technical SEO, content optimisation and keyword research | Claude Code | MIT | 52 | 2026-03-14 |
 | [mangollc/claude-seo-skill](https://github.com/mangollc/claude-seo-skill) | Agency-oriented pack: keyword research, technical audits, content, brand SERP monitoring | Claude Code | none | 37 | 2026-02-19 |
 | [agharsallah/seo-engine-skills](https://github.com/agharsallah/seo-engine-skills) | Issue identification with actionable recommendations | Any agent | none | 3 | 2026-03-08 |
 
@@ -79,7 +79,7 @@ The fastest moving category. Almost everything here was published in 2026.
 
 | Repo | What it covers | Works with | Licence | Stars | Updated |
 | --- | --- | --- | --- | --- | --- |
-| [yaojingang/GEOHub](https://github.com/yaojingang/GEOHub) | Evidence-bounded GEO and SEO skills for AI search, with research-grounded defaults | Any agent | AGPL-3.0 | 161 | 2026-08-31 |
+| [yaojingang/GEOHub](https://github.com/yaojingang/GEOHub) | Evidence-bounded GEO and SEO skills for AI search, with research-grounded defaults | Any agent | AGPL-3.0 | 160 | 2026-08-31 |
 | [199-biotechnologies/claude-skill-seo-geo-optimizer](https://github.com/199-biotechnologies/claude-skill-seo-geo-optimizer) | Analyses content for both traditional search and AI citation, multi-format reporting | Claude Code | MIT | 44 | 2026-05-24 |
 | [jrr996shujin-png/openclaw-seo-aeo-skills](https://github.com/jrr996shujin-png/openclaw-seo-aeo-skills) | Site health diagnosis plus long-tail question mining from Reddit and Quora | OpenClaw | MIT | 11 | 2026-02-26 |
 | [factive1/claude-code-seo-skill](https://github.com/factive1/claude-code-seo-skill) | SEO and GEO content strategy for ranking and getting cited by AI | Claude Code | none | 10 | 2026-09-10 |
@@ -103,7 +103,7 @@ Worth knowing about if they match your stack or your market, easy to miss otherw
 | --- | --- | --- | --- | --- | --- |
 | [imgompanda/fireauto](https://github.com/imgompanda/fireauto) | Korean language automation plugin covering SEO, security, PRDs and Reddit research | Claude Code | MIT | 140 | 2026-04-09 |
 | [huifer/claude-code-seo](https://github.com/huifer/claude-code-seo) | Next.js specific audits with 100-point scoring | Claude Code | MIT | 110 | 2026-01-04 |
-| [Horosheff/google-yandex-seo-skill](https://github.com/Horosheff/google-yandex-seo-skill) | Dual-engine audits for Google and Yandex, self-contained | Cursor, OpenClaw | MIT | 36 | 2026-03-11 |
+| [Horosheff/google-yandex-seo-skill](https://github.com/Horosheff/google-yandex-seo-skill) | Dual-engine audits for Google and Yandex, self-contained | Cursor, OpenClaw | MIT | 37 | 2026-03-11 |
 | [MYehia565/google-seo-agent-skills](https://github.com/MYehia565/google-seo-agent-skills) | Skills grounded in Google Search Central documentation. Not affiliated with Google | Any agent | NOASSERTION | 0 | 2026-08-22 |
 
 ## Smaller and newer packs
@@ -112,7 +112,7 @@ Fewer stars, but several are recent and specific. Read the `SKILL.md` before you
 
 | Repo | What it covers | Works with | Licence | Stars | Updated |
 | --- | --- | --- | --- | --- | --- |
-| [aaron-he-zhu/seo-geo-claude-skills](https://github.com/aaron-he-zhu/seo-geo-claude-skills) | Signpost repo. The 16 SEO and GEO skills moved to `aaron-marketing-skills`, the standalone 20-skill set stays here | Claude Code | Apache-2.0 | 201 | 2026-09-04 |
+| [aaron-he-zhu/seo-geo-claude-skills](https://github.com/aaron-he-zhu/seo-geo-claude-skills) | Signpost repo. The 16 SEO and GEO skills moved to `aaron-marketing-skills`, the standalone 20-skill set stays here | Claude Code | Apache-2.0 | 209 | 2026-09-04 |
 | [ccforseo/seo-claude-code-skills](https://github.com/ccforseo/seo-claude-code-skills) | Technical audits, keyword clustering, content optimisation, AI visibility | Claude Code | none | 2 | 2026-03-06 |
 | [gaguero/seo-agent-skills](https://github.com/gaguero/seo-agent-skills) | Technical audit and content pack written against the Agent Skills open standard | Any agent | MIT | 0 | 2026-05-29 |
 | [anandan-digital-marketer/seo-agent-skills](https://github.com/anandan-digital-marketer/seo-agent-skills) | 29 skills covering technical auditing, LLM visibility, GEO and content | Claude Code | none | 0 | 2026-06-04 |
