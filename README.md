@@ -116,6 +116,7 @@ Fewer stars, but several are recent and specific. Read the `SKILL.md` before you
 | [ccforseo/seo-claude-code-skills](https://github.com/ccforseo/seo-claude-code-skills) | Technical audits, keyword clustering, content optimisation, AI visibility | Claude Code | none | 2 | 2026-03-06 |
 | [gaguero/seo-agent-skills](https://github.com/gaguero/seo-agent-skills) | Technical audit and content pack written against the Agent Skills open standard | Any agent | MIT | 0 | 2026-05-29 |
 | [anandan-digital-marketer/seo-agent-skills](https://github.com/anandan-digital-marketer/seo-agent-skills) | 29 skills covering technical auditing, LLM visibility, GEO and content | Claude Code | none | 0 | 2026-06-04 |
+| [lognorm/lognorm-mcp](https://github.com/lognorm/lognorm-mcp) | LogNorm skill plus remote MCP server: SEO and GEO audit fixes, AI-visibility tracking, keyword research and content briefs from a ranked plan | Claude Code, Codex, Cursor | MIT | 0 | 2026-10-02 |
 
 ## Installing a skill
 
