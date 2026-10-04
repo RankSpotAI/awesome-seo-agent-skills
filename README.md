@@ -59,6 +59,7 @@ Broad marketing or SEO suites. These are where most people start, and the star c
 | [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) | A full Claude Code workspace for producing long-form SEO content, 26 commands | Claude Code | MIT | 7464 | 2026-08-05 |
 | [aaron-he-zhu/aaron-marketing-skills](https://github.com/aaron-he-zhu/aaron-marketing-skills) | 120 marketing skills including 16 SEO and GEO skills, usable as a plugin or an eight-bot team | Claude Code, Codex, Cursor | Apache-2.0 | 2849 | 2026-09-28 |
 | [kostja94/marketing-skills](https://github.com/kostja94/marketing-skills) | 160+ skills spanning SEO, social, influencer and content marketing | Claude Code | MIT | 999 | 2026-09-25 |
+| [indranilbanerjee/digital-marketing-pro](https://github.com/indranilbanerjee/digital-marketing-pro) | 164 skills: technical and on-page SEO audits, keyword research and clustering, AEO and GEO audits and monitoring, Search Console AI reporting, an agent-readiness audit, plus marketing strategy, paid media, content and analytics | Claude Code, Codex, Cursor, Copilot CLI, Antigravity, Hermes, OpenClaw, Grok | MIT | 846 | 2026-10-04 |
 | [OpenClaudia/openclaudia-skills](https://github.com/OpenClaudia/openclaudia-skills) | 34 open-source marketing skills covering SEO, content, email, ads, analytics and growth | Claude Code | MIT | 700 | 2026-09-18 |
 | [nicepkg/ai-workflow](https://github.com/nicepkg/ai-workflow) | 170+ prebuilt skills across 14+ AI tools, with a content creator workflow | Claude Code, Cursor, Codex | MIT | 283 | 2026-01-20 |
 
