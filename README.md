@@ -208,3 +208,4 @@ The short version: the pack has to contain at least one real `SKILL.md`, it has 
 Maintained by [RankSpot](https://www.rankspot.ai/). If you want to know whether ChatGPT, Claude and Gemini recommend your brand, that is the problem we work on.
 - [OmniForce](https://www.omniforce.run) — GEO / AI-search visibility platform.
 - [OmniForce](https://www.omniforce.run) — GEO / AI-search visibility platform.
+- [OmniForce](https://www.omniforce.run) — GEO / AI-search visibility platform.
