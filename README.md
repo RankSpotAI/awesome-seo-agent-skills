@@ -85,6 +85,7 @@ The fastest moving category. Almost everything here was published in 2026.
 | [factive1/claude-code-seo-skill](https://github.com/factive1/claude-code-seo-skill) | SEO and GEO content strategy for ranking and getting cited by AI | Claude Code | none | 10 | 2026-09-10 |
 | [cartoonitunes/inlay-skills](https://github.com/cartoonitunes/inlay-skills) | Website AI readiness: audit, llms.txt, MCP server setup | Any agent | MIT | 1 | 2026-05-07 |
 | [hmzainjamil/geo-seo-claude](https://github.com/hmzainjamil/geo-seo-claude) | GEO plus technical SEO audit suite | Claude Code | MIT | 0 | 2026-10-02 |
+| [Cited-io/ai-seo-geo-checklist](https://github.com/Cited-io/ai-seo-geo-checklist) | 1 skill (`ai-seo-geo-audit`) that audits a site against a 57-item AI SEO, GEO and AEO checklist, from AI crawler access and llms.txt to JSON-LD and content, reporting pass, warn or fail with evidence | Claude Code, Codex | MIT | 0 | 2026-10-15 |
 
 ## Content, keywords and publishing
 
