@@ -113,6 +113,7 @@ Fewer stars, but several are recent and specific. Read the `SKILL.md` before you
 | Repo | What it covers | Works with | Licence | Stars | Updated |
 | --- | --- | --- | --- | --- | --- |
 | [aaron-he-zhu/seo-geo-claude-skills](https://github.com/aaron-he-zhu/seo-geo-claude-skills) | Signpost repo. The 16 SEO and GEO skills moved to `aaron-marketing-skills`, the standalone 20-skill set stays here | Claude Code | Apache-2.0 | 217 | 2026-09-04 |
+| [karero/croftweaver](https://github.com/karero/croftweaver) | 37 skills that build a small-business site, then keep working on it: SEO audit, schema, GEO, Search Console insights, a weekly AI check, facts check | Claude Code, Codex, Antigravity | MIT | 6 | 2026-10-17 |
 | [ccforseo/seo-claude-code-skills](https://github.com/ccforseo/seo-claude-code-skills) | Technical audits, keyword clustering, content optimisation, AI visibility | Claude Code | none | 2 | 2026-03-06 |
 | [gaguero/seo-agent-skills](https://github.com/gaguero/seo-agent-skills) | Technical audit and content pack written against the Agent Skills open standard | Any agent | MIT | 0 | 2026-05-29 |
 | [anandan-digital-marketer/seo-agent-skills](https://github.com/anandan-digital-marketer/seo-agent-skills) | 29 skills covering technical auditing, LLM visibility, GEO and content | Claude Code | none | 0 | 2026-06-04 |
