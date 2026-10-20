@@ -71,6 +71,7 @@ Broad marketing or SEO suites. These are where most people start, and the star c
 | [Suganthan-Mohanadasan/tech-seo-audit-skill](https://github.com/Suganthan-Mohanadasan/tech-seo-audit-skill) | Technical audits across 10 categories | Claude Code | MIT | 65 | 2026-04-11 |
 | [norahe0304-art/30x-seo](https://github.com/norahe0304-art/30x-seo) | 23 production skills across technical SEO, content optimisation and keyword research | Claude Code | MIT | 55 | 2026-03-14 |
 | [mangollc/claude-seo-skill](https://github.com/mangollc/claude-seo-skill) | Agency-oriented pack: keyword research, technical audits, content, brand SERP monitoring | Claude Code | none | 38 | 2026-02-19 |
+| [marketingskills/seo](https://github.com/marketingskills/seo) | 20 skills for SEO diagnosis and delivery: traffic-decay and cannibalization checks, technical SEO triage, keyword opportunities, schema and title fixes, content briefs, internal linking, plus client-ready reports and proposals | Claude Code, Codex, Hermes, OpenClaw | MIT | 8 | 2026-09-23 |
 | [agharsallah/seo-engine-skills](https://github.com/agharsallah/seo-engine-skills) | Issue identification with actionable recommendations | Any agent | none | 3 | 2026-03-08 |
 
 ## GEO, AEO and AI visibility
