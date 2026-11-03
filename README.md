@@ -60,6 +60,7 @@ Broad marketing or SEO suites. These are where most people start, and the star c
 | [aaron-he-zhu/aaron-marketing-skills](https://github.com/aaron-he-zhu/aaron-marketing-skills) | 120 marketing skills including 16 SEO and GEO skills, usable as a plugin or an eight-bot team | Claude Code, Codex, Cursor | Apache-2.0 | 3049 | 2026-11-02 |
 | [kostja94/marketing-skills](https://github.com/kostja94/marketing-skills) | 160+ skills spanning SEO, social, influencer and content marketing | Claude Code | MIT | 1072 | 2026-10-26 |
 | [OpenClaudia/openclaudia-skills](https://github.com/OpenClaudia/openclaudia-skills) | 34 open-source marketing skills covering SEO, content, email, ads, analytics and growth | Claude Code | MIT | 724 | 2026-10-29 |
+| [JasonColapietro/suede-creator-skills](https://github.com/JasonColapietro/suede-creator-skills) | SEO audits, AI SEO and GEO visibility, programmatic SEO, conversion copy and schema, inside a broader pack of agent skills | Claude Code, Codex | MIT AND BSD-3-Clause | 126 | 2026-11-03 |
 | [nicepkg/ai-workflow](https://github.com/nicepkg/ai-workflow) | 170+ prebuilt skills across 14+ AI tools, with a content creator workflow | Claude Code, Cursor, Codex | MIT | 288 | 2026-01-20 |
 
 ## Technical SEO and auditing
