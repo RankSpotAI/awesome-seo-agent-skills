@@ -46,6 +46,7 @@ Built by the company whose data the skills use.
 | Repo | What it covers | Works with | Licence | Stars | Updated |
 | --- | --- | --- | --- | --- | --- |
 | [seranking/seo-skills](https://github.com/seranking/seo-skills) | Content briefs, AI search share of voice, audits, backlink gaps, keyword clusters, schema, sitemaps, GEO. Built for the SE Ranking MCP server, but every API call is documented so it can be adapted | Claude Code | MIT | 193 | 2026-06-25 |
+| [CrakSEO/crakseo-mcp-plugins](https://github.com/CrakSEO/crakseo-mcp-plugins) | Ten skills, one per CrakSEO MCP server: keyword research, SERPs, rank tracking, backlinks, site audits, local SEO, AI visibility, URL indexing and Search Console. Each maps common questions to tools and asks before paid calls | Cursor, Grok Build | MIT | 0 | 2026-11-02 |
 
 ## Large multi-skill packs
 
