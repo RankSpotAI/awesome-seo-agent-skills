@@ -46,6 +46,7 @@ Built by the company whose data the skills use.
 | Repo | What it covers | Works with | Licence | Stars | Updated |
 | --- | --- | --- | --- | --- | --- |
 | [seranking/seo-skills](https://github.com/seranking/seo-skills) | Content briefs, AI search share of voice, audits, backlink gaps, keyword clusters, schema, sitemaps, GEO. Built for the SE Ranking MCP server, but every API call is documented so it can be adapted | Claude Code | MIT | 202 | 2026-11-05 |
+| [rocosen/flashdata-mcp](https://github.com/rocosen/flashdata-mcp) | 13 Google and YouTube data-research Skills for keyword, SERP, local, product and video research; paid API Credits | Claude Code, Cursor | MIT | 0 | 2026-11-10 |
 
 ## Large multi-skill packs
 
