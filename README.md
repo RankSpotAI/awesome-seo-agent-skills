@@ -116,6 +116,7 @@ Fewer stars, but several are recent and specific. Read the `SKILL.md` before you
 | [ccforseo/seo-claude-code-skills](https://github.com/ccforseo/seo-claude-code-skills) | Technical audits, keyword clustering, content optimisation, AI visibility | Claude Code | none | 2 | 2026-03-06 |
 | [gaguero/seo-agent-skills](https://github.com/gaguero/seo-agent-skills) | Technical audit and content pack written against the Agent Skills open standard | Any agent | MIT | 0 | 2026-05-29 |
 | [anandan-digital-marketer/seo-agent-skills](https://github.com/anandan-digital-marketer/seo-agent-skills) | 29 skills covering technical auditing, LLM visibility, GEO and content | Claude Code | none | 0 | 2026-06-04 |
+| [zaDojo/seo-geo-mcp](https://github.com/zaDojo/seo-geo-mcp) | 12 skills: site audits, keyword research and clustering, competitor analysis, link prospecting, local SEO, AI prompt research and AI visibility audits, reports. Data comes from the zaDojo MCP server | Claude Code, Codex, Cursor | MIT | 0 | 2026-11-14 |
 
 ## Installing a skill
 
