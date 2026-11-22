@@ -46,6 +46,7 @@ Built by the company whose data the skills use.
 | Repo | What it covers | Works with | Licence | Stars | Updated |
 | --- | --- | --- | --- | --- | --- |
 | [seranking/seo-skills](https://github.com/seranking/seo-skills) | Content briefs, AI search share of voice, audits, backlink gaps, keyword clusters, schema, sitemaps, GEO. Built for the SE Ranking MCP server, but every API call is documented so it can be adapted | Claude Code | MIT | 210 | 2026-11-05 |
+| [WeCookFlow/mcp](https://github.com/WeCookFlow/mcp) | One skill for buying guest posts: compares prices for a list of sites across link-building marketplaces and finds sites by niche, DR, traffic and budget. Built for the WeCookFlow MCP server, which the plugin connects | Claude Code, Claude Desktop | MIT | 0 | 2026-11-21 |
 
 ## Large multi-skill packs
 
