@@ -193,6 +193,13 @@ Nobody has built these well yet. Build one and we will list it.
 - [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills), 1000+ skills across every category, not SEO specific.
 - [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills), general Claude Skills list.
 
+
+## Public Data APIs (Apify)
+
+- [Google Ads Transparency Scraper](https://apify.com/publicrecords/google-ads-transparency-scraper) - Google ads a competitor runs, from the Ads Transparency Center, with first and last shown dates (Apify Actor, API + MCP).
+- [Etsy Search Scraper](https://apify.com/publicrecords/etsy-search-scraper) - Etsy search results by keyword: price, rating, reviews, Bestseller badge, ad flag, rank (Apify Actor, API + MCP).
+- [Company Social Profile Finder](https://apify.com/publicrecords/company-social-profile-finder) - Company domain or name to its LinkedIn, X, YouTube, Instagram and Facebook links, with confidence scores (Apify Actor, API + MCP).
+
 ## Contributing
 
 Additions and corrections are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md).
